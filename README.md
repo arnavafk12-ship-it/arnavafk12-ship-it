@@ -1,34 +1,49 @@
-# MERN Developer Portfolio
+# Hi there, I'm [Your Name] 👋 🚀
 
-Welcome to my MERN Developer Portfolio!
+### I am a Serious MERN Stack Developer | Full-Stack Architect
+I build scalable, high-performance web applications using the **MERN** ecosystem. Beyond the core stack, I leverage a deep toolkit of 15+ libraries to craft seamless user experiences and robust backend systems.
 
-## About Me
-I am a passionate full-stack developer specializing in building web applications using the MERN stack. I thrive on creating user-centric solutions that are scalable, efficient, and visually appealing.
+- 🔭 I’m currently working on **Advanced Full-Stack Applications**
+- 🌱 I’m currently mastering **System Design & Cloud Architecture**
+- ⚡ Fun fact: I treat code like music—it needs to be clean, rhythmic, and performant.
 
-## Technologies Used
-- **React**: For building dynamic user interfaces.
-- **Vite**: A build tool that provides a fast development environment for modern web projects.
-- **Node.js**: JavaScript runtime for server-side programming.
-- **Express**: Minimalist web framework for Node.js to build APIs.
-- **MongoDB**: NoSQL database to store application data.
-- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
-- **Bootstrap**: Popular CSS framework for responsiveness and components.
-- **Material-UI (MUI)**: React components that implement Google’s Material Design.
-- **shadcn**: Useful for developing shadcn based applications.
-- **Skipper**: A progressive web app generator.
-- **Swiper**: A powerful mobile touch slider with hardware-accelerated transitions.
+---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnavafk12&show_icons=true&hide_title=true&count_private=true&theme=dark)
+### 🛠 Tech Stack & Skills
 
-## Activity Graph
-![GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=arnavafk12&layout=compact&theme=dark)
+#### Core MERN Stack
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
 
-## Projects
-- [Project Name 1](link-to-project) - Brief description of project 1.
-- [Project Name 2](link-to-project) - Brief description of project 2.
+#### Frameworks & Next-Gen Tech
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
 
-## Contact
-Feel free to reach out via [LinkedIn](your-linkedin-profile) or [Email](your-email).
+#### Styling & UI Libraries (15+ integrated)
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
 
-Thank you for visiting my portfolio!
+#### Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app[YOUR_USERNAME]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com[YOUR_USERNAME]&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com[YOUR_LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com[YOUR_TWITTER]" target="blank"><img align="center" src="https://raw.githubusercontent.com" alt="Twitter" height="30" width="40" /></a>
+<a href="mailto:[YOUR_EMAIL]" target="blank"><img align="center" src="https://img.icons8.com" alt="Email" height="30" width="30" /></a>
+</p>
